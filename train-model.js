@@ -29,7 +29,7 @@ const imageHeight = 28;
 const imageChannels = 1;
 
 const batchSizeDefault = 100;
-const epochsValue = 1;
+const epochsValue = 10;
 
 
 // Load and transform data.
